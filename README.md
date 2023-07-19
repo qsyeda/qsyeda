@@ -1,4 +1,4 @@
-<h1>Hi, I'm Qurat - <br/><a href="https://www.linkedin.com/in/qurat-ul-ain-syeda/"> A Data Science Professional</a> with over 2 years of experience is Machine Learning, NLP and data analytics.
+<h1>Hi, I'm Qurat - <br/><a href="https://www.linkedin.com/in/qurat-ul-ain-syeda/"> A Data Science Professional</a> with over 2 years of experience in Machine Learning, NLP and data analytics.
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
