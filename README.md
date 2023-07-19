@@ -3,10 +3,10 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 <!--- <b> Machine Learning</b>
-  - [xx](https://github.com/xx/xx) <b>
+  - [xx](https://github.com/xx/xx) <b> -->
 - <b> Deep Learning </b>
-  - [Vision Processing: Predicting if plant is poisonous or not](https://github.com/xx/xx)
-- <b> Natural Language Processing</b>
+  - [Vision Processing: Predicting if plant is poisonous or not](https://github.com/qsyeda/Identifying-Poisonous-Plants-Using-Deep-Learning)
+<!--- <b> Natural Language Processing</b>
   - [xx](https://github.com/xx/xx)
 - <b> Data Visualization</b>
   - [xxx](https://github.com/xx/xx) -->
