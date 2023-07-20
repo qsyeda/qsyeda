@@ -5,7 +5,7 @@
 <!--- <b> Machine Learning</b>
   - [xx](https://github.com/xx/xx) <b> -->
 - <b> Deep Learning </b>
-  - [Vision Processing: Predicting if plant is poisonous or not](https://github.com/qsyeda/Identifying-Poisonous-Plants-Using-Deep-Learning)
+  - [Binary Image Classification: Predicting if plant is poisonous or not](https://github.com/qsyeda/Identifying-Poisonous-Plants-Using-Deep-Learning)
 <!--- <b> Natural Language Processing</b>
   - [xx](https://github.com/xx/xx)
 - <b> Data Visualization</b>
